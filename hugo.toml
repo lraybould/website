@@ -1,8 +1,24 @@
 baseURL = 'https://example.org/'
-languageCode = 'en-us'
-title = 'My New Hugo Site'
+languageCode = 'en-gb'
+title = 'Luke Raybould'
 theme = 'console'
 
 [caches]
   [caches.images]
     dir = ':cacheDir/images'
+
+[params]
+  description = "Personal website for blog posts"
+  animateStyle = "animate-fade-up" # Animation style for content
+
+[[params.navlinks]]
+  name = "About"
+  url = "/about/"
+
+[[params.navlinks]]
+  name = "Posts"
+  url = "/posts/"
+
+[[params.navlinks]]
+  name = "Photos"
+  url = "/photos/"
