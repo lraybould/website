@@ -1,0 +1,3 @@
+[submodule "lrwebsite/themes/console"]
+	path = lrwebsite/themes/console
+	url = https://github.com/mrmierzejewski/hugo-theme-console.git
