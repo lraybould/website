@@ -1,6 +1,7 @@
 +++
 date = "2025-12-06T21:05:33+05:30"
 title = "About"
+type = "page"
 +++
 
 Hi! I'm Luke, a software developer and Physics graduate from the West Midlands, UK. I've created this small personal website to host some blog posts about projects, programming, and other things that interest me!

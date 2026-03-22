@@ -1,6 +1,6 @@
 baseURL = 'https://example.org/'
 languageCode = 'en-gb'
-title = 'Luke Raybould'
+title = 'lraybould'
 theme = 'console'
 
 [caches]
