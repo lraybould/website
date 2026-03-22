@@ -2,25 +2,25 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on lraybould</title>
-    <link>http://localhost:1313/posts/</link>
+    <link>https://lukeraybould.dev/posts/</link>
     <description>Recent content in Posts on lraybould</description>
     <generator>Hugo</generator>
     <language>en-gb</language>
     <lastBuildDate>Sun, 22 Mar 2026 16:30:07 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://lukeraybould.dev/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>AJAX and XHR - A Quick History</title>
-      <link>http://localhost:1313/posts/ajax-and-xhr/</link>
+      <link>https://lukeraybould.dev/posts/ajax-and-xhr/</link>
       <pubDate>Sun, 22 Mar 2026 16:30:07 +0000</pubDate>
-      <guid>http://localhost:1313/posts/ajax-and-xhr/</guid>
+      <guid>https://lukeraybould.dev/posts/ajax-and-xhr/</guid>
       <description>&lt;p&gt;&lt;em&gt;This is the first of what should become a short series of posts based around a presentation I gave in June 2025 as part of the graduate scheme at Pinewood.AI.&lt;/em&gt;&lt;/p&gt;&#xA;&lt;p&gt;Many of the defining features of today’s internet are powered by a set of techniques and ideas known as &lt;strong&gt;AJAX&lt;/strong&gt;, something the vast majority of people using them daily haven&amp;rsquo;t heard of. Even many web developers may use these techniques without necessarily being able to put a name to it. In fact, AJAX has become so fundamental to UX and web design practices that it&amp;rsquo;s hard to find a modern website that does not rely on it in some form.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Welcome!</title>
-      <link>http://localhost:1313/posts/my-first-post/</link>
+      <link>https://lukeraybould.dev/posts/my-first-post/</link>
       <pubDate>Sat, 06 Dec 2025 23:30:02 +0000</pubDate>
-      <guid>http://localhost:1313/posts/my-first-post/</guid>
-      <description>&lt;p&gt;Hi! I&amp;rsquo;m Luke, a software developer and Physics graduate from the West Midlands, UK. I&amp;rsquo;ve created this small personal website to host some blog posts about projects, programming, and other things that interest me! For a bit more about me, take a look at the &lt;a href=&#34;http://localhost:1313/about/&#34;&gt;About&lt;/a&gt;  page.&lt;/p&gt;</description>
+      <guid>https://lukeraybould.dev/posts/my-first-post/</guid>
+      <description>&lt;p&gt;Hi! I&amp;rsquo;m Luke, a software developer and Physics graduate from the West Midlands, UK. I&amp;rsquo;ve created this small personal website to host some blog posts about projects, programming, and other things that interest me! For a bit more about me, take a look at the &lt;a href=&#34;https://lukeraybould.dev/about/&#34;&gt;About&lt;/a&gt;  page.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
