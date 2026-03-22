@@ -18,7 +18,3 @@ theme = 'console'
 [[params.navlinks]]
   name = "Posts"
   url = "/posts/"
-
-[[params.navlinks]]
-  name = "Photos"
-  url = "/photos/"
