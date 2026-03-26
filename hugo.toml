@@ -1,6 +1,6 @@
 baseURL = "https://lukeraybould.dev/"
 languageCode = 'en-gb'
-title = 'lraybould'
+title = 'lukeraybould.dev'
 theme = 'console'
 
 [caches]
